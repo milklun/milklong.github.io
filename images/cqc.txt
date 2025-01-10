@@ -2,7 +2,7 @@
 
  〈启动页配置〉
 ◎〈启动页开关〉开〈/启动页开关〉 
-◎〈图片链接〉https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707677960592/1.jpg〈/图片链接〉
+◎〈图片链接〉https://github.com/milklun/milklong.github.io/blob/main/images/daxz.jpg〈/图片链接〉
 ◎〈跳转链接〉https://vlink.cc/milkapk〈/跳转链接〉 
 ◎〈倒计时秒数〉5〈/倒计时秒数〉 
 ◎〈点击是否跳过〉开〈/点击是否跳过〉
